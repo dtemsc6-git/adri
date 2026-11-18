@@ -37,6 +37,7 @@ Consultar los archivos existentes antes de asumir esta estructura.
 - Explicar qué cambió, cómo se verificó y qué queda pendiente.
 - No asumir que el nombre de una carpeta indica la versión de APEX instalada.
 - Cualquier cambio de la App se deberá realizar en la carpeta dev, una una de las carpetas con sufijo numérico, en caso que no se indique siempre preguntar a cual desarrollo se esta refiriendo.
+- Flujo: Utilizar Oracle APEX Builder como entorno de ejecución y pruebas, mientras que VS Code + Codex + Git funcionan como el entorno de desarrollo asistido y control de versiones.
 
 ## Convenciones de Oracle APEX
 - Mantener los nombres existentes de items, regiones y acciones dinámicas.
